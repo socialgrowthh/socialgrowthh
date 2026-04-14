@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=40&lines=I+build+software+that+feels+alive.;Frontend%2C+backend%2C+product+%E2%80%94+end+to+end.;Obsessed+with+detail%2C+speed+and+craft." alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=40&lines=I+build+software+that+feels+alive.;Frontend%2C+backend%2C+AI+%E2%80%94+end+to+end.;Obsessed+with+detail%2C+speed+and+craft." alt="tagline" />
 
 <br>
 
@@ -22,9 +22,9 @@
 
 I'm **Hugo** — software engineer and product builder shipping under the **NovaDev** banner.
 
-I design and build **end-to-end products**: from the pixel-perfect landing and animated UI, through the API and database, all the way to automations, integrations and the infra that keeps it running at 3AM.
+I design and build **end-to-end products**: from the pixel-perfect landing and animated UI, through the API and database, all the way to AI agents, automations and the infra that keeps it running at 3AM.
 
-I don't just hand over code. I ship things people actually use — **fast, polished, and built to scale**.
+I don't just hand over code. I ship things people actually use — **fast, polished, and built to scale.**
 
 > *"The difference between a good product and a great one lives in the details. I live for those details."*
 
@@ -36,20 +36,20 @@ I don't just hand over code. I ship things people actually use — **fast, polis
 <tr>
 <td width="33%" valign="top">
 
-### Web products
+### 🌐 Web products
 High-conversion landings, SaaS dashboards, marketing sites. **Next.js**, animated, server-rendered, Lighthouse 95+.
 
 </td>
 <td width="33%" valign="top">
 
-### Backend & automation
-REST & serverless APIs, email automation pipelines, scrapers, CRMs and internal tools. Built for **reliability, not just the demo**.
+### ⚙️ Backend & automation
+REST & serverless APIs, email automation pipelines, scrapers, CRMs and internal tools. Built for **reliability, not just the demo.**
 
 </td>
 <td width="33%" valign="top">
 
-### Full products
-From "I have an idea" to a live, paying product — design, frontend, backend, deploy, iterate. One builder, full stack.
+### 🤖 AI & agents
+LLM-powered features, custom agents, RAG pipelines and Claude Code workflows that turn hours of work into seconds.
 
 </td>
 </tr>
@@ -75,71 +75,42 @@ From "I have an idea" to a live, paying product — design, frontend, backend, d
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![Prisma](https://img.shields.io/badge/Prisma-0c344b?style=flat-square&logo=prisma)
 
+**AI & agents** &nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-1a1a1a?style=flat-square&logo=anthropic&logoColor=D97757)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-a78bfa?style=flat-square&logoColor=white)
+
 **Cloud & ops** &nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-**Craft & AI** &nbsp;
+**Craft** &nbsp;
 ![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Motion design](https://img.shields.io/badge/Motion_design-ec4899?style=flat-square&logoColor=white)
 
 <br>
 
 ## Currently in orbit
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🛰️ Nebula · Cortex
-**A second brain for students.**
-Capture, connect, and actually *remember* what you learn. Built to make studying feel less like work and more like leveling up.
+<img src="./assets/cards.webp" alt="Projects — Nebula Cortex, Lead Engine, Nova Agency, Void Workspace" width="100%" />
 
-`Next.js` · `TypeScript` · `Supabase` · `Framer Motion`
+</div>
 
-[`→ enter orbit`](https://github.com/socialgrowthh/nebula-cortex)
+<br>
 
-</td>
-<td width="50%" valign="top">
+## Snake eating my contributions
 
-### ✉️ Lead Engine
-**Email automation that actually converts.**
-Outreach pipelines, warm-up, inbox placement and analytics — built for teams that need leads, not spam.
+<div align="center">
 
-`Python` · `FastAPI` · `PostgreSQL` · `Next.js`
+<img src="https://raw.githubusercontent.com/socialgrowthh/socialgrowthh/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 
-[`→ enter orbit`](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 Nova · Agency
-**Premium web design, built like software.**
-Landings engineered to load fast, convert high, and feel alive. Every pixel earns its place.
-
-`Next.js 16` · `Tailwind 4` · `Framer Motion`
-
-[`→ enter orbit`](https://github.com/socialgrowthh/nova-landing)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Void Workspace
-**My lab.**
-Where I prototype, break things, and turn ideas into products. If you see weird commits here — something is cooking.
-
-`TypeScript`
-
-[`→ enter orbit`](https://github.com/socialgrowthh/void-workspace)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -166,9 +137,9 @@ Where I prototype, break things, and turn ideas into products. If you see weird 
 
 ```yaml
 identity:     Hugo · socialgrowthh
-role:         Software engineer · product builder
+role:         Software engineer · product builder · AI tinkerer
 universe:     NovaDev
-specialty:    end-to-end web products (design → deploy)
+specialty:    end-to-end web products (design → deploy → agents)
 experience:   1,300,000+ seconds in the craft
 currently:    building Nebula · Cortex
 mode:         deep work
