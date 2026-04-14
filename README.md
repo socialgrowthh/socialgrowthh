@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cosmos.svg" alt="Hugo — Software Engineer · Product Builder" width="100%" />
+<img src="./assets/blackhole.webp" alt="Hugo — Software Engineer · Product Builder" width="100%" />
 
 <br><br>
 
