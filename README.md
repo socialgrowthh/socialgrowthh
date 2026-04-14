@@ -1,88 +1,124 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hugo&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%20Craftsman&descAlignY=60&descSize=18)
-
-<p>
-  <a href="https://github.com/socialgrowthh"><img src="https://readme-typing-svg.herokuapp.com/?lines=Building+premium+digital+experiences;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;Turning+ideas+into+polished+products&center=true&width=520&height=40&color=a78bfa&vCenter=true&size=18"></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=70&lines=%3E+booting+hugo.exe...;%3E+connection+established+%E2%97%86+welcome+traveler;%3E+entering+the+nebula+%E2%9C%A6" alt="intro" />
 
 <br>
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
 
-## Sobre mi
+---
 
-```ts
-const hugo = {
-  role: "Frontend Developer",
-  focus: ["Landing pages premium", "SaaS products", "UI/UX que enamora"],
-  stack: ["Next.js", "TypeScript", "Tailwind", "Framer Motion"],
-  currentlyBuilding: [
-    "Nebula — second brain study app",
-    "Lead Engine — email automation",
-    "Nova — web design agency",
-  ],
-  mantra: "Details make the difference.",
-};
+```
+          .          .              *        .           .      ✦
+    *         .              .           .          *
+ .       ✦         ┌─────────────────────────────┐         .
+              .    │   HUGO // FRONTEND ARCHITECT │    ✦
+       .           │   STATUS: ONLINE   AGE: ∞    │              .
+                   │   LOCATION: THE NEBULA       │   *
+   *       .       └─────────────────────────────┘        .
+         .                .        ✦           .     .
 ```
 
-## Stack
+## `~/whoami`
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+```ts
+class Hugo extends Developer {
+  readonly codename = "socialgrowthh";
+  readonly mission  = "ship premium digital experiences that feel alive";
+  readonly universe = "NovaDev";
 
-## Proyectos destacados
+  stack = {
+    orbit: ["Next.js", "TypeScript", "React", "Tailwind", "Framer Motion"],
+    core:  ["Node.js", "Python", "Supabase"],
+    craft: ["UI/UX", "Micro-interactions", "Motion design"],
+  };
+
+  building = [
+    { name: "Nebula · Cortex",  type: "second-brain study app"    },
+    { name: "Lead Engine",      type: "email automation saas"     },
+    { name: "Nova",             type: "premium web design agency" },
+  ];
+
+  mantra = "details carry the soul of the product.";
+}
+```
+
+## `~/constellation` — projects orbiting right now
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Nebula — Cortex</h3>
-      <p><em>Second brain study app</em></p>
-      <p>Plataforma para capturar, conectar y dominar conocimiento. Pensado para estudiantes que quieren aprender rapido y retener para siempre.</p>
-      <p><a href="https://github.com/socialgrowthh/nebula-cortex">Ver repo &rarr;</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Nova — Landing</h3>
-      <p><em>Agencia de diseno web premium</em></p>
-      <p>Landing animada construida con Next.js 16, Tailwind CSS 4 y Framer Motion. Foco en microinteracciones y performance.</p>
-      <p><a href="https://github.com/socialgrowthh/nova-landing">Ver repo &rarr;</a></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Nebula · Cortex
+`second brain · study app`
+
+> *"a place to capture, connect and master knowledge — built for students who want to learn fast and remember forever."*
+
+`typescript` `next.js` `framer-motion`
+
+[`→ enter orbit`](https://github.com/socialgrowthh/nebula-cortex)
+
+</td>
+<td width="50%" valign="top">
+
+### Nova · Landing
+`premium web agency`
+
+> *"animated landing built with next.js 16, tailwind 4 and framer motion. obsessed with micro-interactions and perf."*
+
+`next.js` `tailwind-4` `motion`
+
+[`→ enter orbit`](https://github.com/socialgrowthh/nova-landing)
+
+</td>
+</tr>
 </table>
 
-## GitHub Stats
+## `~/signal` — telemetry from deep space
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=socialgrowthh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=socialgrowthh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api?username=socialgrowthh&show_icons=true&hide_border=true&count_private=true&bg_color=0D0B1F&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=socialgrowthh&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="170" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=socialgrowthh&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=socialgrowthh&hide_border=true&background=0D0B1F&stroke=A78BFA&ring=A78BFA&fire=F472B6&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=A78BFA&sideNums=C9D1D9&dates=6B7280" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=socialgrowthh&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
-## Conectemos
+## `~/manifesto`
 
-<p align="center">
-  <a href="https://github.com/socialgrowthh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+```
+ ╭────────────────────────────────────────────────────────╮
+ │                                                        │
+ │   I don't ship websites. I ship small universes.       │
+ │                                                        │
+ │   Every pixel has weight.                              │
+ │   Every transition is a sentence.                      │
+ │   Every landing is a first impression — and the last.  │
+ │                                                        │
+ │                                  — hugo / novadev      │
+ ╰────────────────────────────────────────────────────────╯
+```
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer)
+<br>
 
-<sub>Thanks for dropping by — <b>Hugo</b></sub>
+```
+   ✦    .        .       *          ✦        .
+     .      *              .    ✦         .      *
+  *        ✦      [ end of transmission ]       .
+     .        .         *          .     ✦
+```
+
+<sub><i>the nebula is always expanding · check back for new orbits</i></sub>
 
 </div>
