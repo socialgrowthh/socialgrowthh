@@ -11,14 +11,27 @@
 ---
 
 ```
-          .          .              *        .           .      ✦
-    *         .              .           .          *
- .       ✦         ┌─────────────────────────────┐         .
-              .    │   HUGO // FRONTEND ARCHITECT │    ✦
-       .           │   STATUS: ONLINE   AGE: ∞    │              .
-                   │   LOCATION: THE NEBULA       │   *
-   *       .       └─────────────────────────────┘        .
-         .                .        ✦           .     .
+  ·      ˚      ·  .  ✦      ·        ˚    ·     ✦   .          ·
+        .  ✦              ·       ˚                ·     ˚
+  ˚   ·        .       ·                 .     ·            ✦    ·
+                                ,MMM8&&&.                  ·        ˚
+         ✦                 _...MMMMM88&&&&..._
+                       .::'''MMMMM88&&&&&&'''::.          ·      ✦
+     ·                :: ·   MMMMM88&&&&&&      ::
+       ˚              '::...MMMMM88&&&&&&....::'     .          ·
+              ·          ``''-MMMM8&&&''-''                ˚
+   ✦                          NEBULA//07                       ·   ˚
+             ·         ──────────────────────                      ·
+     ˚                ▸ traveler detected                ✦
+              ·       ▸ identifier  :: hugo
+   ·                  ▸ universe    :: novadev               ·
+         ✦            ▸ status      :: building worlds            ˚
+                      ▸ frequency   :: 432hz                ·
+              ˚       ──────────────────────        ·
+       ·      .         "the web is a canvas.              ✦
+                         i paint with motion."        ˚           ·
+  ·       ✦                                               ·
+     .         ·        ˚       ·     ✦    .         ˚         ·
 ```
 
 ## `~/whoami`
@@ -113,10 +126,27 @@ class Hugo extends Developer {
 <br>
 
 ```
-   ✦    .        .       *          ✦        .
-     .      *              .    ✦         .      *
-  *        ✦      [ end of transmission ]       .
-     .        .         *          .     ✦
+  ·    ✦       ˚    ·        .           ✦        ·        ˚
+         .              ·        ˚           .            ·
+  ˚           ·                                        ·        ✦
+                        ___
+                     _-'   '-_              ·      ˚         ·
+      ·            .'  .---.  '.                        ˚
+                  /   /  o  \   \         ·     ✦
+   ˚             |   |   <   |   |                  .         ·
+        ·         \   \_____/   /               ˚
+                   '._       _.'         ·              ✦
+  ✦                   '-___-'                                    ·
+              ·     /       \      ˚          ·
+                   //         \\                      .       ˚
+     ˚            //           \\        ·      ✦
+          ·    __//____________ \\__                    ·
+              [==== NOVADEV ONE ====]         ˚
+                                                 ·        ✦
+  ·           signal lost ━━━━━━━━━━━━━━━━━━━━━━━━━━  ∞
+         ˚                                    ·              ˚
+     ·           [ end of transmission ]            ·      ✦
+  ✦        .             ·           ˚         ·        .
 ```
 
 <sub><i>the nebula is always expanding · check back for new orbits</i></sub>
