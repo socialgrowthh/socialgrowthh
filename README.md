@@ -1,100 +1,154 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=70&lines=%3E+booting+hugo.exe...;%3E+connection+established+%E2%97%86+welcome+traveler;%3E+entering+the+nebula+%E2%9C%A6" alt="intro" />
+<img src="./assets/cosmos.svg" alt="Hugo — Software Engineer · Product Builder" width="100%" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=40&lines=I+build+software+that+feels+alive.;Frontend%2C+backend%2C+product+%E2%80%94+end+to+end.;Obsessed+with+detail%2C+speed+and+craft." alt="tagline" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<p>
+  <img src="https://img.shields.io/badge/status-building-a78bfa?style=flat-square&labelColor=0d0b1f" />
+  <img src="https://img.shields.io/badge/based%20in-the%20nebula-ec4899?style=flat-square&labelColor=0d0b1f" />
+  <img src="https://img.shields.io/badge/open%20to-collab-22d3ee?style=flat-square&labelColor=0d0b1f" />
+</p>
 
 </div>
 
----
+<br>
 
-```
-  ·      ˚      ·  .  ✦      ·        ˚    ·     ✦   .          ·
-        .  ✦              ·       ˚                ·     ˚
-  ˚   ·        .       ·                 .     ·            ✦    ·
-                                ,MMM8&&&.                  ·        ˚
-         ✦                 _...MMMMM88&&&&..._
-                       .::'''MMMMM88&&&&&&'''::.          ·      ✦
-     ·                :: ·   MMMMM88&&&&&&      ::
-       ˚              '::...MMMMM88&&&&&&....::'     .          ·
-              ·          ``''-MMMM8&&&''-''                ˚
-   ✦                          NEBULA//07                       ·   ˚
-             ·         ──────────────────────                      ·
-     ˚                ▸ traveler detected                ✦
-              ·       ▸ identifier  :: hugo
-   ·                  ▸ universe    :: novadev               ·
-         ✦            ▸ status      :: building worlds            ˚
-                      ▸ frequency   :: 432hz                ·
-              ˚       ──────────────────────        ·
-       ·      .         "the web is a canvas.              ✦
-                         i paint with motion."        ˚           ·
-  ·       ✦                                               ·
-     .         ·        ˚       ·     ✦    .         ˚         ·
-```
+## About
 
-## `~/whoami`
+I'm **Hugo** — software engineer and product builder shipping under the **NovaDev** banner.
 
-```ts
-class Hugo extends Developer {
-  readonly codename = "socialgrowthh";
-  readonly mission  = "ship premium digital experiences that feel alive";
-  readonly universe = "NovaDev";
+I design and build **end-to-end products**: from the pixel-perfect landing and animated UI, through the API and database, all the way to automations, integrations and the infra that keeps it running at 3AM.
 
-  stack = {
-    orbit: ["Next.js", "TypeScript", "React", "Tailwind", "Framer Motion"],
-    core:  ["Node.js", "Python", "Supabase"],
-    craft: ["UI/UX", "Micro-interactions", "Motion design"],
-  };
+I don't just hand over code. I ship things people actually use — **fast, polished, and built to scale**.
 
-  building = [
-    { name: "Nebula · Cortex",  type: "second-brain study app"    },
-    { name: "Lead Engine",      type: "email automation saas"     },
-    { name: "Nova",             type: "premium web design agency" },
-  ];
+> *"The difference between a good product and a great one lives in the details. I live for those details."*
 
-  mantra = "details carry the soul of the product.";
-}
-```
+<br>
 
-## `~/constellation` — projects orbiting right now
+## What I build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Web products
+High-conversion landings, SaaS dashboards, marketing sites. **Next.js**, animated, server-rendered, Lighthouse 95+.
+
+</td>
+<td width="33%" valign="top">
+
+### Backend & automation
+REST & serverless APIs, email automation pipelines, scrapers, CRMs and internal tools. Built for **reliability, not just the demo**.
+
+</td>
+<td width="33%" valign="top">
+
+### Full products
+From "I have an idea" to a live, paying product — design, frontend, backend, deploy, iterate. One builder, full stack.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Stack
+
+**Frontend** &nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js)
+
+**Backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Prisma](https://img.shields.io/badge/Prisma-0c344b?style=flat-square&logo=prisma)
+
+**Cloud & ops** &nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Craft & AI** &nbsp;
+![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+<br>
+
+## Currently in orbit
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Nebula · Cortex
-`second brain · study app`
+### 🛰️ Nebula · Cortex
+**A second brain for students.**
+Capture, connect, and actually *remember* what you learn. Built to make studying feel less like work and more like leveling up.
 
-> *"a place to capture, connect and master knowledge — built for students who want to learn fast and remember forever."*
-
-`typescript` `next.js` `framer-motion`
+`Next.js` · `TypeScript` · `Supabase` · `Framer Motion`
 
 [`→ enter orbit`](https://github.com/socialgrowthh/nebula-cortex)
 
 </td>
 <td width="50%" valign="top">
 
-### Nova · Landing
-`premium web agency`
+### ✉️ Lead Engine
+**Email automation that actually converts.**
+Outreach pipelines, warm-up, inbox placement and analytics — built for teams that need leads, not spam.
 
-> *"animated landing built with next.js 16, tailwind 4 and framer motion. obsessed with micro-interactions and perf."*
+`Python` · `FastAPI` · `PostgreSQL` · `Next.js`
 
-`next.js` `tailwind-4` `motion`
+[`→ enter orbit`](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌌 Nova · Agency
+**Premium web design, built like software.**
+Landings engineered to load fast, convert high, and feel alive. Every pixel earns its place.
+
+`Next.js 16` · `Tailwind 4` · `Framer Motion`
 
 [`→ enter orbit`](https://github.com/socialgrowthh/nova-landing)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Void Workspace
+**My lab.**
+Where I prototype, break things, and turn ideas into products. If you see weird commits here — something is cooking.
+
+`TypeScript`
+
+[`→ enter orbit`](https://github.com/socialgrowthh/void-workspace)
 
 </td>
 </tr>
 </table>
 
-## `~/signal` — telemetry from deep space
+<br>
+
+## Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=socialgrowthh&show_icons=true&hide_border=true&count_private=true&bg_color=0D0B1F&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=socialgrowthh&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=socialgrowthh&show_icons=true&hide_border=true&count_private=true&bg_color=0D0B1F&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=socialgrowthh&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="165" />
 
 <br>
 
@@ -106,49 +160,36 @@ class Hugo extends Developer {
 
 </div>
 
-## `~/manifesto`
+<br>
 
+## Flight log
+
+```yaml
+identity:     Hugo · socialgrowthh
+role:         Software engineer · product builder
+universe:     NovaDev
+specialty:    end-to-end web products (design → deploy)
+experience:   1,300,000+ seconds in the craft
+currently:    building Nebula · Cortex
+mode:         deep work
+availability: open to collaborations, freelance and wild ideas
 ```
- ╭────────────────────────────────────────────────────────╮
- │                                                        │
- │   I don't ship websites. I ship small universes.       │
- │                                                        │
- │   Every pixel has weight.                              │
- │   Every transition is a sentence.                      │
- │   Every landing is a first impression — and the last.  │
- │                                                        │
- │                                  — hugo / novadev      │
- ╰────────────────────────────────────────────────────────╯
-```
+
+<br>
+
+## Let's build something
+
+If you have a product, an idea, or a problem that deserves great software —
+**I'm the builder you send it to.**
+
+<p>
+  <a href="https://github.com/socialgrowthh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <div align="center">
 
 <br>
 
-```
-  ·    ✦       ˚    ·        .           ✦        ·        ˚
-         .              ·        ˚           .            ·
-  ˚           ·                                        ·        ✦
-                        ___
-                     _-'   '-_              ·      ˚         ·
-      ·            .'  .---.  '.                        ˚
-                  /   /  o  \   \         ·     ✦
-   ˚             |   |   <   |   |                  .         ·
-        ·         \   \_____/   /               ˚
-                   '._       _.'         ·              ✦
-  ✦                   '-___-'                                    ·
-              ·     /       \      ˚          ·
-                   //         \\                      .       ˚
-     ˚            //           \\        ·      ✦
-          ·    __//____________ \\__                    ·
-              [==== NOVADEV ONE ====]         ˚
-                                                 ·        ✦
-  ·           signal lost ━━━━━━━━━━━━━━━━━━━━━━━━━━  ∞
-         ˚                                    ·              ˚
-     ·           [ end of transmission ]            ·      ✦
-  ✦        .             ·           ˚         ·        .
-```
-
-<sub><i>the nebula is always expanding · check back for new orbits</i></sub>
+<sub><i>the nebula is always expanding · new orbits incoming</i></sub>
 
 </div>
